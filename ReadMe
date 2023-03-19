@@ -1,0 +1,14 @@
+educatonal trojan, do not use this is purely educatonal
+will not work on linx/ ubantu 
+
+will work on window
+
+
+ python3 -m venv .venv
+ source .venv/bin/activate
+ deactivate
+
+
+--------------------------------------------------------------------------
+
+mastermind game
